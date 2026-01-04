@@ -1,3 +1,4 @@
+'use client'; 
 import { Header } from "@/components/header";
 import { AdvisoryForm } from "@/components/advisory-form";
 
