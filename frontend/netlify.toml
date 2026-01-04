@@ -1,5 +1,5 @@
 [build]
-  publish = "frontend/.next"
+  publish = ".next"
   command = "npm run build"
 
 [[redirects]]
