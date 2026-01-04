@@ -1,3 +1,4 @@
+'use client'; 
 import { AdvisoryResults } from "@/components/advisory-results";
 import { Header } from "@/components/header";
 import { Suspense } from 'react';
