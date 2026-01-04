@@ -1,0 +1,5 @@
+agroshield/
+.agroshield/
+__pycache__/
+*.pyc
+.env
