@@ -1,0 +1,16 @@
+-BEGIN HEADER-
+NASA/POWER Source Native Resolution Daily Data 
+Dates (month/day/year): 01/01/1994 through 12/31/2023 in LST
+Location: latitude  18.52   longitude 73.85 
+elevation from MERRA-2: Average for 0.5 x 0.625 degree lat/lon region = 635.99 meters
+The value for missing source data that cannot be computed or is outside of the sources availability range: -999 
+parameter(s): 
+T2M_MAX         MERRA-2 Temperature at 2 Meters Maximum (C) 
+T2M_MIN         MERRA-2 Temperature at 2 Meters Minimum (C) 
+T2MDEW          MERRA-2 Dew/Frost Point at 2 Meters (C) 
+PRECTOTCORR     MERRA-2 Precipitation Corrected (mm/day) 
+RH2M            MERRA-2 Relative Humidity at 2 Meters (%) 
+WS2M            MERRA-2 Wind Speed at 2 Meters (m/s) 
+GWETPROF        MERRA-2 Profile Soil Moisture (1) 
+GWETTOP         MERRA-2 Surface Soil Wetness (1) 
+-END HEADER-
