@@ -1,0 +1,7 @@
+{
+  "python.defaultInterpreterPath": "${workspaceFolder}\\agroshield\\Scripts\\python.exe",
+  "code-runner.executorMap": {
+    "python": ".\\agroshield\\Scripts\\python.exe"
+  },
+  "python-envs.pythonProjects": []
+}
